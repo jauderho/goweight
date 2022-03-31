@@ -1,14 +1,16 @@
 module github.com/jondot/goweight
 
+go 1.18
+
 require (
-	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc // indirect
-	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/dustin/go-humanize v0.0.0-20180713052910-9f541cc9db5d
-	github.com/mattn/go-zglob v0.0.0-20180803001819-2ea3427bfa53
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/spf13/pflag v1.0.2
-	github.com/stretchr/testify v1.2.2 // indirect
-	github.com/thoas/go-funk v0.0.0-20180716193722-1060394a7713
+	github.com/dustin/go-humanize v1.0.0
+	github.com/mattn/go-zglob v0.0.3
+	github.com/thoas/go-funk v0.9.2
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
+)
+
+require (
+	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
+	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 )
