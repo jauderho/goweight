@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/jondot/goweight v1.0.5
-	github.com/mattn/go-zglob v0.0.3
+	github.com/mattn/go-zglob v0.0.4
 	github.com/thoas/go-funk v0.9.2
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
