@@ -6,7 +6,7 @@ require (
 	github.com/alecthomas/kingpin/v2 v2.3.2
 	github.com/dustin/go-humanize v1.0.1
 	github.com/jondot/goweight v1.0.5
-	github.com/mattn/go-zglob v0.0.4
+	github.com/mattn/go-zglob v0.0.5
 	github.com/thoas/go-funk v0.9.3
 )
 
